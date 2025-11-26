@@ -1,1 +1,1 @@
-streamlit run 1.py
+streamlit run api/generate.py
